@@ -1,0 +1,7 @@
+# ignore .vscode, .venv and .pdf files
+
+.vscode
+vscode/
+*.pdf
+.venv
+venv/
