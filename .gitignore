@@ -1,7 +1,8 @@
-# ignore .vscode, .venv and .pdf files
+# ignore .vscode, .venv and .pdf/.mp3 files
 
 .vscode
 vscode/
 *.pdf
 .venv
 venv/
+*.mp3
